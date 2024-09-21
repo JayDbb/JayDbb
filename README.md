@@ -2,18 +2,15 @@
 
 # Hi there, I'm Justin D. Brown! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Justin%20Brown-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-d-brown-296b4a233/)](https://www.linkedin.com/in/justin-d-brown-296b4a233/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/JayDbb)
-
 Welcome to my GitHub profile! I'm a software engineer with a passion for creating innovative solutions and exploring the latest technologies.
 
 ## 🚀 About Me
 
-- 🎓 **Education:** BSc. in Computing; Major in Information Technology & Minor in Enterprise Systems.
+- 🎓 **Education:** CS @ Utech JA.
 - 🌱 **Learning:** Continuously enhancing my skills in cloud computing and software development.
-- 💬 **Ask me about:** Web development, algorithms, and the best food spots in town.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/justin-d-brown-296b4a233/) or [Email](mailto:justin670brown@gmail.com).
 - ⚡ **Fun fact:** I love graphic design and music, I might reincarnate as music
+- ⚡ **Fun fact:** Current president @ [gdsc-utech](https://github.com/gdsc-utech)
 
 ## 🛠️ Skills
 
@@ -44,10 +41,6 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for creatin
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Other Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 _**Justin D. Brown** • Software Engineer • Innovator • Lifelong Learner_
