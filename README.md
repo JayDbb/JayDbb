@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for creatin
 ## 🚀 About Me
 
 - 🎓 **Education:** CS @ Utech JA.
-- 🌱 **Learning:** Continuously enhancing my skills in cloud computing and software development.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/justin-d-brown-296b4a233/) or [Email](mailto:justin670brown@gmail.com).
-- ⚡ **Fun fact:** I love graphic design and music, I might reincarnate as music
-- ⚡ **Fun fact:** Current president @ [gdsc-utech](https://github.com/gdsc-utech)
+- 🌱 **My Development:** Continuously enhancing my skills in cloud computing and software development.
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/justin-d-brown-296b4a233/) or [Email](mailto:justin670brown@gmail.com).
+- 🎭 **Hobby:** I love graphic design and music, I might reincarnate as music
+- ⚡ **Clubs:** Current president @ [gdsc-utech](https://github.com/gdsc-utech)
 
 ## 🛠️ Skills
 
