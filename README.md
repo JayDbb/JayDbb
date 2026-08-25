@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for creatin
 
 ## 🚀 About Me
 
-- 🎓 **Education:** MM Analytics @ McGill. CS @ Utech JA.
+- 🎓 **Education:** MM Analytics @ McGill | Prev. CS @ Utech JA.
 - 🌱 **My Development:** Continuously enhancing my skills in cloud computing and software development.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/justiinb) or [Email](mailto:justin670brown@gmail.com).
 - 🎭 **Hobby:** I love graphic design and music, I might reincarnate as music
